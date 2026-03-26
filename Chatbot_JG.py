@@ -4,6 +4,7 @@ from groq import Groq
 st.set_page_config(page_title="Chatbot del Jorge", page_icon="😎", layout="centered")
 
 # hize un cambio
+#cambio 2
 
 MODELOS = ['llama3-8b-8192', 'llama3-70b-8192', 'mixtral-8x7b-32768']
 
